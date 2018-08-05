@@ -1,0 +1,156 @@
+#button{background-color: #3b5998;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+
+}
+
+#button2{background-color: #3b5998;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+
+}
+
+#noaccount{
+	background-color: #3b5998;
+	border: none;
+	color: white;
+   font-weight: 900;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+   border-radius: 4px;
+}
+
+#button3{
+	background-color: lightslategray;
+	border: none;
+	color: white;
+	font-weight: 900;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 4px
+}
+
+
+#logoutb{
+		background-color: darkorange;
+		color: white;
+		font-weight: 700;
+		padding: 5px 5px;
+		text-align: center;
+		text-decoration: none;
+		font-family: arial;
+		font-size: 16px;
+		margin: 4px 2px;
+		cursor: pointer;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius: 4px;
+}
+
+#name, #password, #email, #login  {
+   font-family: arial;
+   font-size: 16px;
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	box-sizing: border-box;
+   object-position: center;
+   display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#post{
+			font-family: arial;
+			font-size: 20px;
+			width: 70%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			border: 1px solid #ccc;
+			border-radius: 8px;
+			box-sizing: border-box;
+			object-position: center;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			color: black;
+}
+
+
+#comment{
+			font-family: arial;
+			font-size: 20px;
+			width: 40%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+			box-sizing: border-box;
+			object-position: center;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+
+}
+
+
+#headerformain{
+			font-family: arial;
+			font-size: 20px;
+			width: 70%;
+			padding: 12px 20px;
+			background-color:#3b5998;
+			color: white;
+			margin: 8px 0;
+			border: 1px solid #ccc;
+			border-radius: 8px;
+			box-sizing: border-box;
+			object-position: center;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: center;
+}
+
+#results{
+   font-family: arial;
+   font-size: 16px;
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	box-sizing: border-box;
+   display: block;
+	margin-left: auto;
+	margin-right: auto;
+   background-color: #8b9dc3;
+}
